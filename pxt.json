@@ -1,0 +1,21 @@
+{
+    "name": "czujniki bla bla bla 2 michalina",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "AlphaBot2": "github:waveshare/pxt-alphabot2#v1.0.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
